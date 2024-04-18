@@ -31,7 +31,7 @@ If you need any kind of Telegram bot or Program Developed Please contact me. I c
 - Discord Bot Development
 
 **Other Programs:**
-I already have many programs that developed for Telegram and Discord, here are some of them:
+I already have many programs that developed for Telegram and Discord, here are some of them. If you interested in any of them please DM me.
 - Discord DM Send on Join
 - Discord Join Notifier
 - Daily English Word Dictionary Telegram Bot
