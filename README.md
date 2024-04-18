@@ -21,6 +21,7 @@ This program can be used to manage Telegram accounts and send messages to users 
 Please contact me to buy this program. This program is only $25
 - Email: [lakdev28@proton.me](mailto:lakdev28@proton.me)
 - Discord: lakdev28
+- Twitter: [lakdev28](https://twitter.com/lakdev28)
 
 **My Other Services:**
 If you need any kind of Telegram bot or Program Developed Please contact me. I can do it for you. Payments can be made after work is completed. These are some of the works that I can do:
