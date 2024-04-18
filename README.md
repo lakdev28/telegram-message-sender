@@ -1,4 +1,4 @@
-[Telegram Message Sender](/screenshot.png)
+<img src='/screenshot.png'>
 
 **Telegram Message Sender**
 
