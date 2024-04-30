@@ -18,7 +18,7 @@ This program can be used to manage Telegram accounts and send messages to users 
 - Send Reactions to Channel Posts
 
 **Buy:**
-Please contact me to buy this program. This program is only $25
+Please contact me to buy this program. This program is only $25, and If you need I'll provide a guide to use the application.
 - Email: [lakdev28@proton.me](mailto:lakdev28@proton.me)
 - Discord: lakdev28
 - Twitter: [lakdev28](https://twitter.com/lakdev28)
